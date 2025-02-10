@@ -1,5 +1,5 @@
 package first_module
 
-func sayHello() string {
+func hello() string {
 	return "Hello, world!"
 }
